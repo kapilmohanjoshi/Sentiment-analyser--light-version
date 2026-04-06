@@ -7,7 +7,7 @@ st.set_page_config(page_title="Lightweight Sentiment App")
 
 st.title("💬 3-Class Sentiment Analysis (Light Model)")
 st.markdown(
-    "<p style='text-align:center; color:#00BFFF; font-size:14px;'>✨ Created by Kapil</p>",
+    "<p style='text-align:center; color:#008080; font-size:14px;'>✨ Created by Kapil</p>",
     unsafe_allow_html=True
 )
 
