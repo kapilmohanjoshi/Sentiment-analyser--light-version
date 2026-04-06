@@ -6,7 +6,7 @@ from sentiment_model import predict_sentiment
 st.set_page_config(page_title="Lightweight Sentiment App")
 
 st.title("💬 3-Class Sentiment Analysis (Light Model)")
-st.write("Optimized for Streamlit Free Deployment")
+st.write("Created by Kapil - using BERTweet model")
 
 mode = st.radio("Choose Mode:", ["Single Text", "Batch CSV Upload"])
 
